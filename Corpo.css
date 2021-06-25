@@ -1,0 +1,10 @@
+body { 
+background-color: rgb(131, 131, 175);
+
+}
+
+a {
+    background-color: chartreuse;
+    border: rgb(230, 228, 228);
+    border-radius: 10px;
+}
